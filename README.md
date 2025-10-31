@@ -1,4 +1,5 @@
-# Helm-chart## Working with Helm Chart
+# Helm-chart
+## Working with Helm Chart
 
 ### Prerequisite:
 - Ensure cluster runing(minikube, Docker)
